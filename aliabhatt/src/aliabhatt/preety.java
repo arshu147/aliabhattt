@@ -1,10 +1,8 @@
 package aliabhatt;
 
-public class Ranbir {
-	
+public class preety {
 	public static void main(String[] args) {
 		
-		System.out.println("sdffsdsd");
 	}
 
 }
